@@ -25,9 +25,9 @@
 
 # Informacion adicional
 
-  Dependencias utilizadas: Spring Data JPA, Spring Boot Web, H2, Spring Boot Starter Test, JUnit Jupiter API, JUnit Jupiter Engine, Mockito Core
-  Version de java utilizada: 17
-  Ejemplos de ADN:
+  1. Dependencias utilizadas: Spring Data JPA, Spring Boot Web, H2, Spring Boot Starter Test, JUnit Jupiter API, JUnit Jupiter Engine, Mockito Core
+  2. Version de java utilizada: 17
+  3. Ejemplos de ADN:
     Mutantes: 
             { "dna": [ "ATGCGA", "CAGTGC", "TTATGT", "AGAAGG", "CCCCTA", "TCACTG" ] }
             { "dna": [ "ATGCGA", "CAGTGC", "TTATGT", "AGAAGG", "CCCCAA", "TCACTG" ] }
